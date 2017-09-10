@@ -1,0 +1,3 @@
+[submodule "vestlist"]
+	path = vestlist
+	url = git@github.com:alexferreiradev/vestlist.git
